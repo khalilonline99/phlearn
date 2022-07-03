@@ -1,0 +1,26 @@
+.master-heading {
+    text-align: center;
+    color: coral;
+    padding-top: 10px;
+}
+
+.main-body {
+    height: 250px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.intro {
+    /* width: 75%; */
+    height: auto;
+    margin: 25px;
+    padding: 10px;
+    background-color: aquamarine;
+    text-align: left;
+}
+
+.link {
+    text-decoration: none;
+    color: coral;
+    font-size: 18px;
+}
